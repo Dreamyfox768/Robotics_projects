@@ -2,4 +2,4 @@
 ## **ROBOTICS**
 
 Hello and welcome!
-**doing fun robotics projects to better understand the merging of hardware and software in the engineering world.**
+**completing fun robotics projects to gain a deeper understanding of how hardware and software are combined in the engineering field.**
