@@ -1,1 +1,3 @@
+*Autonomous Robot*
+
 This project is an autonomous robot built with an Arduino microcontroller that uses multiple sensors and control systems to navigate and interact intelligently with its environment. It integrates ultrasonic sensors for obstacle detection, infrared and line-tracking sensors for path following, and light sensors for phototaxis. A servo motor provides directional scanning, while dual DC motors enable smooth, precise movement. Combining real-time sensor feedback, motor control, and decision-making, the robot demonstrates core concepts of sensor fusion, motion control, and embedded autonomy in a compact, modular design.
